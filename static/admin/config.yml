@@ -35,3 +35,8 @@ collections:
                 widget: 'number',
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+menu:
+    main:
+        - name: Portfolio
+          url: /portfolio
+          weight: 1
