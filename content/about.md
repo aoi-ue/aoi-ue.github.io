@@ -6,4 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Yuhan"
 +++
 
-Hi! I write as a purple team in cloud security!
+Hi! I write as a purple team in cloud security! Covering Docker, K8, Cloud Providers and CICD pipelines.
