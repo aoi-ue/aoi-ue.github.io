@@ -4,8 +4,8 @@ title = "cloud scrutiny"
 author = "Yuhan"
 copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 paginate = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "en-us"
+DefaultContentLanguage = "en-sg"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -34,17 +34,17 @@ logo = "images/rice.svg"
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/yuhanyuhan"
+url = "https://github.com/aoi-ue"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:yuhanlian@gmail.com"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-linkedin"
 title = "linkedin"
-url = "www.linkedin.com/in/yuhan-lian-b1a57a107"
+url = "https://www.linkedin.com/in/yuhanlian/"
 
 [menu]
 
